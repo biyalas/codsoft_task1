@@ -1,0 +1,32 @@
+body{
+    background-color: #ffffff;
+    background-image: linear-gradient(to right, rgb(98, 130, 136),rgb(250, 251, 252));
+    
+}
+
+.box{
+   width: 60%;
+   height:fit-content;
+   border: 2px solid rgb(105, 98, 57);
+   padding: 10px;
+   padding-top: 20px;
+   background-color:rgb(226, 241, 229);
+   border-top-right-radius: 8%; 
+   box-shadow: 10px 7px rgb(184, 180, 180);
+   float: left;
+   width: 60%;
+}
+.h1{
+    
+}
+.image{
+    width: 40%;
+   height:fit-content;
+   border: 2px solid rgb(105, 98, 57);
+   padding: 10px;
+   background-color:rgb(226, 241, 229);
+    float: right;
+    align-content: center;
+    width: 30%;
+    opacity: 1;
+}
